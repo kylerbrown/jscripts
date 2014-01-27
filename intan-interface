@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd /home/kjbrown/RHD2000interface/source/
+./RHD2000interface
